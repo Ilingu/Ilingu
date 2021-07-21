@@ -13,3 +13,6 @@
 (yeah I really love JS ^^)
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=Ilingu.Ilingu)
+
+### <s>Joke For Fun</s>
+![Jokes Card](https://readme-jokes.vercel.app/api) 😂
