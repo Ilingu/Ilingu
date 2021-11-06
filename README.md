@@ -1,7 +1,17 @@
 # 👋 Hi, I’m @Ilingu
 
-- 👀 I’m a fullstack Dev interested in WebDev and programmation in general
-- 🌱 I’m currently learning nothing... because I only statrt to learn new things if my projects required it. 😄
+- 👀 Let's introduce myself, I'm a French Student 🇫🇷, who programming during free time, 
+  - (I also love **anime** and *genshin impact*!) 🤫
+> 👨‍💻 So I’m a fullstack Dev interested in JAMStack and more globally in __new technologies__ <s>(like jQuery)</s>
+- 🌱 I’m currently learning nothing... because I only start to learn new things if my projects required it. 😄
+> ❗ But I always stay aware of new web technologies and new version
+>> I'm planning to learn `Rust` 🤍
+
+| Here also my favorites web technologies: | And Here my favorites case writting |
+|------------------------------------------|-------------------------------------|
+| - TS 🏆                                   | - PascalCase 🏆                      |
+| - Next 🥈                                 | - camelCase 🥈                       |
+| - Firebase 🥉                             | - snake_case 🥉                      |
 
 ## Stats/Trophy
 
