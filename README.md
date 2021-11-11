@@ -1,11 +1,13 @@
 # 👋 Hi, I’m @Ilingu
 
-- 👀 Let's introduce myself, I'm a French Student 🇫🇷, who programming during free time, 
+#### 👀 Let me introduce myself, I'm a French Student 🇫🇷, who programming during free time.
   - (I also love **anime** and *genshin impact*!) 🤫
-> 👨‍💻 So I’m a fullstack Dev interested in JAMStack and more globally in __new technologies__ <s>(like jQuery)</s>
-- 🌱 I’m currently learning nothing... because I only start to learn new things if my projects required it. 😄
-> ❗ But I always stay aware of new web technologies and new version
->> I'm planning to learn `Rust` 🤍
+> 👨‍💻 So I’m a fullstack Dev interested in JAMStack, Blockchain and more globally in __new technologies__ <s>(like jQuery)</s>
+
+🌱 I’m currently learning nothing but I'd love learn `Rust` 🤍😄
+> ❗ Though I always stay aware of new web/blockchain technologies
+
+### Later... I'm planning to become a blockchain developper ⛓, that my passion 💛
 
 | Here also my favorites web technologies: | And Here my favorites case writting |
 |------------------------------------------|-------------------------------------|
@@ -24,5 +26,5 @@
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=Ilingu.Ilingu)
 
-### <s>Joke For Fun</s>
+## <s>Joke For Fun</s>
 ![Jokes Card](https://readme-jokes.vercel.app/api) 😂
