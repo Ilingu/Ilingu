@@ -17,12 +17,12 @@
 
 ## Stats/Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ilingu)](https://github.com/ryo-ma/github-profile-trophy)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=briqueaubob&theme=dark&show_icons=true)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Ilingu&show_icons=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ilingu&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilingu&show_icons=true)
-(yeah I really love JS ^^)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilingu&show_icons=true&theme=dark)
+(yeah I really love JS Env ^^)
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=Ilingu.Ilingu)
 
