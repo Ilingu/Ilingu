@@ -4,10 +4,10 @@
   - (I also love **anime** and *genshin impact*!) 🤫
 > 👨‍💻 So I’m a fullstack Dev interested in JAMStack, Blockchain and more globally in __new technologies__ <s>(like jQuery)</s>
 
-🌱 I’m currently learning nothing but I'd love learn `Rust` 🤍😄
+🌱 I’m currently learning nothing but I'd love learn `Rust` and `Web3` 🤍😄
 > ❗ Though I always stay aware of new web/blockchain technologies
 
-### Later... I'm planning to become a blockchain developper ⛓, that my passion 💛
+### Later... I'm planning to become a blockchain developper ⛓, that's what I'm interested in 💛
 
 | Here also my favorites web technologies: | And Here my favorites case writting |
 |------------------------------------------|-------------------------------------|
