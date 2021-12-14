@@ -17,7 +17,7 @@
 
 ## Stats/Trophy
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=briqueaubob&theme=dark&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Ilingu&theme=dark&show_icons=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ilingu&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
