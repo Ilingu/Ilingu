@@ -49,7 +49,7 @@
     attributes: [recklessDriver /* 😅 */, fastLearner, thirstForKnowledge, veryCurious, serious, seekingOutBestPracticesInRealLife],
   };
   
-  export default derek;
+  export default IlinguBio;
 ```
 
 ## Stats/Trophy
