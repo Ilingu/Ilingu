@@ -9,11 +9,12 @@
 
 ### Later... I'm planning to become a blockchain developper ⛓, that's what I'm interested in 💛
 
-| Here also my favorites web technologies: | And Here my favorites case writting |
+| Here also my favorites web technologies: | And Here My Web3 Stack |
 |------------------------------------------|-------------------------------------|
-| - TS 🏆                                   | - PascalCase 🏆                      |
-| - Next 🥈                                 | - camelCase 🥈                       |
-| - Firebase 🥉                             | - snake_case 🥉                      |
+| - TS 🏆                                  | - Solidity 🏆                     |
+| - Next 🥈                                | - Hardhat (TS) 🥈                 |
+| - Firebase 🥉                            | - OpenZeppelin 🥉                 |
+| - 🤍 NestJS                              | - 🤍 Moralis                      |
 
 ## Skills
 
@@ -23,25 +24,25 @@
   
   const IlinguBio: Biography = {
     pronouns: ["He", "Him"].join(" | "),
-    code: ["JavaScript", "TypeScript", "React", "Solidity", "Rust", "Python", "C", "Dart"],
+    code: ["JavaScript", "TypeScript", "Solidity", "Golang", "Rust", "Python"],
     askMeAbout: ["Blockchain development", "WebApp development", "Crossplatform App", "Back/Front end"],
     passionate: true,
     yearsActive: 3,
     technologies: {
-      backEnd: ["NodeJS", "PHP"],
-      frameworks: ["Next.js", "React", "Express", "Truffle Suite", "Nuxt", "Gatsby", "Firebase"],
+      backEnd: ["NodeJS", "NestJS", "GraphQL"],
+      frameworks: ["Next.js", "React", "TailwindCSS", "Express/Fastify", "Truffle/Hardhat", "Gatsby"],
       CrossPlatformApp: {
         native: ["iOS", "Android", "Window", "MacOS" /* ... */],
-        frameworks: ["Flutter", "React Native", "ElectronJS"],
+        frameworks: ["React Native", "ElectronJS"],
       },
       IDE: ["VSCode"],
-      tooling: ["Git", "Prettier", "ESLint", "npm", "Webpack" /* ... */],
+      tooling: ["Git", "Prettier", "Vite", "ESLint", "npm", "Webpack" /* ... */],
       devOps: ["GitHub Actions", "Google Cloud", "Docker", "CI/CD"],
-      databases: ["Firebase", "mongoDB", "mysql", "postgress"],
-      deploy: ["Vercel", "Netlify", "Heroku"],
+      databases: ["Firebase", "MongoDB", "MySql", "PostgressSql"],
+      deploy: ["Vercel", "Netlify", "Heroku", "~AWS~"],
     },
-    architecture: ["Serverless", "Progressive Web Apps", "Single-page apps"],
-    currentFocus: "WebApp and blockchain development (dApps)",
+    architecture: ["Serverless", "BackEnd", "Progressive Web Apps", "Single-page apps"],
+    currentFocus: "Blockchain development (dApps)",
     funFact: "I love skiing!",
     lookingForCollaboration: true,
     interestedInOpenSourceProjects: true, 
