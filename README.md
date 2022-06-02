@@ -1,68 +1,97 @@
-# 👋 Hi, I’m @Ilingu
+<p align="center"><img src="https://github.com/Ilingu/Ilingu/blob/main/github-banner.png" alt="my banner"></p>
 
-#### 👀 Let me introduce myself, I'm a French Student 🇫🇷, who programming during free time.
+<h1 align="center">👋 Hi, I’m Ilingu</h1>
+
+## 👀 About me
+Let me introduce myself, I'm a French Student 🇫🇷, **who loves programming** during his free time.
   - (I also love **anime** and *genshin impact*!) 🤫
-> 👨‍💻 So I’m a fullstack Dev interested in JAMStack, Blockchain and more globally in __new technologies__ <s>(like jQuery)</s>
+> 👨‍💻 I’m a fullstack Dev interested in JAMStack, Blockchain and more globally in __new technologies__ <s>(like jQuery)</s>
 
-🌱 I’m currently learning `Web3`, and I'm constantly improving my skills 🤍😄
-> ❗ I always stay aware of new web / blockchain technologies
 
-### Later... I'm planning to become a blockchain developper ⛓, that's what I'm interested in 💛
+## 🌱 I’m mainly focusing on learning `Web3`, and I'm constantly improving my skills 🤍😄
+In parallele, I'm also learning (or plan to learn):
+- `Golang`
+- `Docker`
+- Rust/Wasm (Yew+Tauri)
+- Testing my apps
+- React Native
+- Want to test DenoJS 
+- Larn UI/UX (because my design sucks)
+> ❗ I'm constantly staying aware of new web / blockchain technologies
 
-| Here also my favorites web technologies: | And Here My Web3 Stack |
-|------------------------------------------|-------------------------------------|
-| - TS 🏆                                  | - Solidity 🏆                     |
-| - Next 🥈                                | - Hardhat (TS) 🥈                 |
-| - Firebase 🥉                            | - OpenZeppelin 🥉                 |
-| - 🤍 NestJS                              | - 🤍 Moralis                      |
+## 💼 Technical Skills
+💾 **Tech Stack**
 
-## Skills
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 
-```typescript
-  import { loveOfTheGame, senseOfHumor, serious } from 'dad';
-  import { optimism, thirstForKnowledge, kind, serious } from 'mom';
-  
-  const IlinguBio: Biography = {
-    pronouns: ["He", "Him"].join(" | "),
-    code: ["JavaScript", "TypeScript", "Solidity", "Golang", "Rust", "Python"],
-    askMeAbout: ["Blockchain development", "WebApp development", "Crossplatform App", "Back/Front end"],
-    passionate: true,
-    yearsActive: 3,
-    technologies: {
-      backEnd: ["NodeJS", "NestJS", "GraphQL"],
-      frameworks: ["Next.js", "React", "TailwindCSS", "Express/Fastify", "Truffle/Hardhat", "Gatsby"],
-      CrossPlatformApp: {
-        native: ["iOS", "Android", "Window", "MacOS" /* ... */],
-        frameworks: ["React Native", "ElectronJS"],
-      },
-      IDE: ["VSCode"],
-      tooling: ["Git", "Prettier", "Vite", "ESLint", "npm", "Webpack" /* ... */],
-      devOps: ["GitHub Actions", "Google Cloud", "Docker", "CI/CD"],
-      databases: ["Firebase", "MongoDB", "MySql", "PostgressSql"],
-      deploy: ["Vercel", "Netlify", "Heroku", "~AWS~"],
-    },
-    architecture: ["Serverless", "BackEnd", "Progressive Web Apps", "Single-page apps"],
-    currentFocus: "Blockchain development (dApps)",
-    funFact: "I love skiing!",
-    lookingForCollaboration: true,
-    interestedInOpenSourceProjects: true, 
-    currentlyLearning: ["Blockchain", "IA"],
-    attributes: [recklessDriver /* 😅 */, fastLearner, thirstForKnowledge, veryCurious, serious, seekingOutBestPracticesInRealLife],
-  };
-  
-  export default IlinguBio;
-```
+📜 DB
 
-## Stats/Trophy
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+🐳 **DevOps Tools**
+
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+🎨 UI Tools
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+😥 Testing
+
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+
+🧷 Blockchain
+
+![](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+
+🎓 Education
+
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+
+✨ **Others**
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
+![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)
+![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
+![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)
+![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
+
+## 🏆📈  GitHub Stats
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Ilingu&theme=dark&show_icons=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ilingu&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilingu&show_icons=true&theme=dark)
 (yeah I really love JS Env ^^)
-
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=Ilingu.Ilingu)
 
 ## <s>Joke For Fun</s>
 ![Jokes Card](https://readme-jokes.vercel.app/api) 😂
