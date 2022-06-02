@@ -16,7 +16,7 @@ In parallele, I'm also learning (or plan to learn):
 - Testing my apps
 - React Native
 - Want to test DenoJS 
-- Larn UI/UX (because my design sucks)
+- Learn UI/UX (because my design sucks)
 > ❗ I'm constantly staying aware of new web / blockchain technologies
 
 ## 💼 Technical Skills
