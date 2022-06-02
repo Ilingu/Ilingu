@@ -90,8 +90,9 @@ In parallele, I'm also learning (or plan to learn):
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Ilingu&theme=dark&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilingu&show_icons=true&theme=dark)
-(yeah I really love JS Env ^^)
+_(yeah I really do love JS Env ^^)_
 
-## <s>Joke For Fun</s>
-![Jokes Card](https://readme-jokes.vercel.app/api) 😂
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilingu&show_icons=true&theme=dark)
+
+### <s>Joke For Fun 😂</s>
+![Jokes Card](https://readme-jokes.vercel.app/api)
