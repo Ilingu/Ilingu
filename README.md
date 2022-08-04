@@ -60,7 +60,7 @@ In parallele, I'm also learning (or plan to learn):
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-😥 Testing
+🧪 Testing
 
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
