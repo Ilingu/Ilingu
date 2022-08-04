@@ -5,18 +5,17 @@
 ## 👀 About me
 Let me introduce myself, I'm a French Student 🇫🇷, **who loves programming** during his free time.
   - (I also love **anime** and *genshin impact*!) 🤫
-> 👨‍💻 I’m a fullstack Dev interested in JAMStack, Blockchain and more globally in __new technologies__ <s>(like jQuery)</s>
+> 👨‍💻 I’m a fullstack Dev interested in **WebDev**, Blockchain _(Web3)_ and more globally in __new technologies__ <s>(like jQuery)</s>
 
 
-## 🌱 I’m mainly focusing on learning `Web3`, and I'm constantly improving my skills 🤍😄
+## 🌱 I’m mainly focusing on **improving and diversifying** my skills 🤍😄
 In parallele, I'm also learning (or plan to learn):
 - `Golang`
-- `Docker`
-- Rust/Wasm (Yew+Tauri)
-- Testing my apps
-- React Native
-- Want to test DenoJS 
-- Learn UI/UX (because my design sucks)
+- `Docker` 🐳
+- Rust/Wasm (Yew+Tauri+Solana)
+- React Native ⚛️
+- Want to test BunJS 💣
+- Learn UI/UX (because my design sucks) 
 > ❗ I'm constantly staying aware of new web / blockchain technologies
 
 ## 💼 Technical Skills
@@ -45,6 +44,7 @@ In parallele, I'm also learning (or plan to learn):
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Railway](https://img.shields.io/badge/railway-%230B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
