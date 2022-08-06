@@ -89,11 +89,12 @@ In parallele, I'm also learning (or plan to learn):
 
 ## 🏆📈  GitHub Stats
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Ilingu&theme=dark&show_icons=true)
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ilingu&theme=dark&show_icons=true&layout=compact" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilingu&show_icons=true&theme=dark&layout=compact" />
+</div>
 
-_(yeah I really do love JS Env ^^)_
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilingu&show_icons=true&theme=dark)
-
-### <s>Joke For Fun 😂</s>
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<div align="center">
+  <h3><s>Joke For Fun 😂</s></h3>
+  <img src="https://readme-jokes.vercel.app/api" />
+</div>
