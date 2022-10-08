@@ -10,8 +10,8 @@ Let me introduce myself, I'm a French Student 🇫🇷, **who loves programming*
 
 ## 🌱 I’m mainly focusing on **improving and diversifying** my skills 🤍😄
 In parallele, I'm also learning (or plan to learn):
-- `Golang`
-- `Docker` 🐳
+- `Golang` (Done)
+- `Docker` 🐳 (Done)
 - Rust/Wasm (Yew+Tauri+Solana)
 - React Native ⚛️
 - Want to test BunJS 💣
@@ -22,17 +22,17 @@ In parallele, I'm also learning (or plan to learn):
 💾 **Tech Stack**
 
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
-![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![](https://img.shields.io/badge/Astro-4A4A55?style=for-the-badge&logo=astro&logoColor=FF3E00)
+
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Tauri-ffc131?style=for-the-badge&logo=tauri&logoColor=24c8db)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
+![](https://img.shields.io/badge/JWTs-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)...
 
 📜 DB
 
@@ -84,7 +84,6 @@ In parallele, I'm also learning (or plan to learn):
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)
 ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
-![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 
 ## 🏆📈  GitHub Stats
