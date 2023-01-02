@@ -10,8 +10,6 @@ Let me introduce myself, I'm a French Student 🇫🇷, **who loves programming*
 
 ## 🌱 I’m mainly focusing on **improving and diversifying** my skills 🤍😄
 In parallele, I'm also learning (or plan to learn):
-- `Golang` (Done)
-- `Docker` 🐳 (Done)
 - Rust/Wasm (Yew+Tauri+Solana)
 - React Native ⚛️
 - Want to test BunJS 💣
@@ -77,7 +75,7 @@ In parallele, I'm also learning (or plan to learn):
 
 ✨ **Others**
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![NeoVim](https://img.shields.io/badge/Neovim-0f191f.svg?style=for-the-badge&logo=neovim)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
