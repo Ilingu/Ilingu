@@ -4,15 +4,14 @@
 
 ## 👀 About me
 Let me introduce myself, I'm a French Student 🇫🇷, **who loves programming** during his free time.
-  - (I also love **anime** and *genshin impact*!) 🤫
-> 👨‍💻 I’m a fullstack Dev interested in **WebDev**, Blockchain _(Web3)_ and more globally in __new technologies__ <s>(like jQuery)</s>
+  - I also love **hiking** ⛰, reading 📖, solving problems 🧩, to ski ⛷, to play drums 🥁, <s>genshin impact 🤫</s>, learning new things and **being calm!**
+> 👨‍💻 I’m a fullstack Dev interested in **WebDev**, AI and more globally in __new technologies__ <s>(like jQuery)</s>
 
 
 ## 🌱 I’m mainly focusing on **improving and diversifying** my skills 🤍😄
 In parallele, I'm also learning (or plan to learn):
-- Rust/Wasm (Yew+Tauri+Solana)
-- React Native ⚛️
-- Want to test BunJS 💣
+- `Rust`
+- `React Native ⚛️`
 - Learn UI/UX (because my design sucks) 
 > ❗ I'm constantly staying aware of new web / blockchain technologies
 
