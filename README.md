@@ -10,9 +10,10 @@ Let me introduce myself, I'm a French Student 🇫🇷, **who loves programming*
 
 ## 🌱 I’m mainly focusing on **improving and diversifying** my skills 🤍😄
 In parallele, I'm also learning (or plan to learn):
-- `Rust`
+- `Rust`, familiar with it through projects but never had the chance to really learn it from the ground up (and never done web development with it)
+  - Currently reading [zero2prod](https://www.zero2prod.com/index.html) rust book
 - `React Native ⚛️`
-- Learn UI/UX (because my design sucks) 
+- Learn to design things well (because my design sucks) 
 > ❗ I'm constantly staying aware of new web / blockchain technologies
 
 ## 💼 Technical Skills
