@@ -49,6 +49,7 @@ In parallele, I'm also learning (or plan to learn):
 ![VsCodium](https://img.shields.io/badge/VScodium-2F80ED.svg?style=for-the-badge&logo=vscodium&logoColor=white)
 ![NeoVim](https://img.shields.io/badge/Neovim-0f191f.svg?style=for-the-badge&logo=neovim)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![nixos](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
 
 </details>
 
