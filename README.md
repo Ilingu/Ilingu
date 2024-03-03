@@ -8,16 +8,11 @@ Let me introduce myself, I'm a French Student 🇫🇷, **who loves programming*
 > 👨‍💻 I’m a fullstack Dev interested in **WebDev**, AI and more globally in __new technologies__ <s>(like jQuery)</s>
 
 
-## 🌱 I’m mainly focusing on **improving and diversifying** my skills 🤍😄
-In parallele, I'm also learning (or plan to learn):
-- `data structures & algorithms`
-  - I'm now in peace with the programming tools that I use, so I do not wish to learn a new langage/framework for now. I want to learn *data structure & algorithms* for 2 main reasons: 1. I'm a student and I'm planning to do my higher studies in informatics. 2. I want to write better code.
-- Learn to design things well (because my design sucks) 
-> ❗ I'm constantly staying aware of new web / blockchain technologies
+## 🌱 I’m mainly focusing on **improving and diversifying** my skills through projects that I found funny to do
 
 ## 💼 Technical Skills
 
-<details open>
+<details>
 <summary>My main programming tools</summary>
 
 💾 **Tech Stack**
@@ -58,8 +53,6 @@ In parallele, I'm also learning (or plan to learn):
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ilingu&theme=dark&show_icons=true&layout=compact" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilingu&show_icons=true&theme=dark&layout=compact" />
-
->  <h6>You may disregard the "Javascript ~25%" because it's been ages since the last time I used pure JavaScript (I only use TypeScript). Looking at my repositories, I can't figure out why the "js" is taking up this much percentage. Perhaps in an old commit, I accidentally pushed "node_modules"? 🤔</h6>
 </div>
 
 <div align="center">
