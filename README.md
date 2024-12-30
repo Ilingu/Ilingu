@@ -4,7 +4,7 @@
 
 ## 👀 About me
 Let me introduce myself, I'm a French Student 🇫🇷, **who loves programming** during his free time _(something that I don't have anymore since I'm in my last year of CPGE)_.
-  - I also love **hiking** ⛰, reading 📖, solving problems 🧩, to ski ⛷, to play drums 🥁, <s>genshin impact 🤫</s>, learning new things and **being calm!**
+  - I also love **hiking** ⛰, reading 📖, solving problems 🧩, to ski ⛷, to play the drums 🥁, <s>genshin impact 🤫</s>, learning new things and **being calm!**
 > 👨‍💻 I’m a versatile dev interested in **low level programming**, **WebDev** and more globally in __new technologies__ <s>(like jQuery)</s>
 
 
