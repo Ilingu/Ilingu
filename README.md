@@ -3,9 +3,9 @@
 <h1 align="center">👋 Hi, I’m Ilingu</h1>
 
 ## 👀 About me
-Let me introduce myself, I'm a French Student 🇫🇷, **who loves programming** during his free time.
+Let me introduce myself, I'm a French Student 🇫🇷, **who loves programming** during his free time _(something that I don't have anymore since I'm in my last year of CPGE)_.
   - I also love **hiking** ⛰, reading 📖, solving problems 🧩, to ski ⛷, to play drums 🥁, <s>genshin impact 🤫</s>, learning new things and **being calm!**
-> 👨‍💻 I’m a fullstack Dev interested in **WebDev**, AI and more globally in __new technologies__ <s>(like jQuery)</s>
+> 👨‍💻 I’m a versatile dev interested in **low level programming**, **WebDev** and more globally in __new technologies__ <s>(like jQuery)</s>
 
 
 ## 🌱 I’m mainly focusing on **improving and diversifying** my skills through projects that I found funny to do
